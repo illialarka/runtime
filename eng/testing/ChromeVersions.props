@@ -1,13 +1,13 @@
 <Project>
   <PropertyGroup>
-      <linux_ChromeVersion>117.0.5938.132</linux_ChromeVersion>
-      <linux_ChromeRevision>1181205</linux_ChromeRevision>
-      <linux_ChromeBaseSnapshotUrl>https://storage.googleapis.com/chromium-browser-snapshots/Linux_x64/1181205</linux_ChromeBaseSnapshotUrl>
-      <linux_V8Version>11.7.439</linux_V8Version>
+      <linux_ChromeVersion>135.0.7049.95</linux_ChromeVersion>
+      <linux_ChromeRevision>1427262</linux_ChromeRevision>
+      <linux_ChromeBaseSnapshotUrl>https://storage.googleapis.com/chromium-browser-snapshots/Linux_x64/1427282</linux_ChromeBaseSnapshotUrl>
+      <linux_V8Version>13.5.212</linux_V8Version>
 
-      <win_ChromeVersion>117.0.5938.132</win_ChromeVersion>
-      <win_ChromeRevision>1181205</win_ChromeRevision>
-      <win_ChromeBaseSnapshotUrl>https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1181217</win_ChromeBaseSnapshotUrl>
-      <win_V8Version>11.7.439</win_V8Version>
+      <win_ChromeVersion>135.0.7049.96</win_ChromeVersion>
+      <win_ChromeRevision>1427262</win_ChromeRevision>
+      <win_ChromeBaseSnapshotUrl>https://storage.googleapis.com/chromium-browser-snapshots/Win_x64/1427268</win_ChromeBaseSnapshotUrl>
+      <win_V8Version>13.5.212</win_V8Version>
   </PropertyGroup>
 </Project>
